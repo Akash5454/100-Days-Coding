@@ -1,2 +1,2 @@
 # 100-Days-Coding
-Solutions of all problems in Crack the Coding Interview
+Solving problems from Crack the Coding Interview Book (6th edition) 
